@@ -6,4 +6,5 @@ public class MainClient {
     public static void main(String[] args) throws MalformedURLException, NotBoundException, RemoteException {
         RemoteMessageClient remoteMessageClient = new RemoteMessageClient();
     }
+
 }

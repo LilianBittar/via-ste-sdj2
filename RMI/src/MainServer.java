@@ -8,7 +8,6 @@ public class MainServer {
         // Startup the registry so we can upload the server to the registry.
         LocateRegistry.createRegistry(1099);
         System.out.println("Registry started...");
-
         RemoteMessageServer remoteMessageServer = new RemoteMessageServer();
     }
 }
