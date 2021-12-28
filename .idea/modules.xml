@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Sockets/Sockets.iml" filepath="$PROJECT_DIR$/Sockets/Sockets.iml" />
       <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers/Writers/Readers/Writers.iml" filepath="$PROJECT_DIR$/Readers/Writers/Readers/Writers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/via-ste-sdj2.iml" filepath="$PROJECT_DIR$/.idea/via-ste-sdj2.iml" />
     </modules>
   </component>
